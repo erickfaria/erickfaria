@@ -39,21 +39,6 @@
 
 <br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3 align="center">LidarToolkit</h3>
-        <p align="center">Python tools for LiDAR data processing and analysis, supporting geospatial research and applications.</p>
-      </td>
-      <td valign="top" width="50%">
-        <h3 align="center">RemoteSensingGEE</h3>
-        <p align="center">Exploring Google Earth Engine capabilities through Python for geospatial analysis and environmental monitoring.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## GitHub Stats
 
 <div align="center">
@@ -67,20 +52,4 @@
 ## Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickfaria&layout=compact&theme=radical" alt="Most Used Languages" />
-</div>
-
-## Technologies & Trends I'm Exploring
-![AI](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LLM](https://img.shields.io/badge/-Large%20Language%20Models-0081A7?style=flat-square&logo=openai&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Data%20Science-232F3E?style=flat-square&logo=jupyter&logoColor=white)
-![Remote Sensing](https://img.shields.io/badge/-Remote%20Sensing-43B02A?style=flat-square&logo=satellite&logoColor=white)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=erickfaria&theme=radical&row=1&column=6" alt="Trophy" />
-</div>
-
-<div align="center">
-  
-  > "The most valuable insights come from where the digital and physical worlds intersect."
-  
 </div>
