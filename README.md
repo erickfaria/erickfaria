@@ -1,10 +1,10 @@
 # Hello, I'm Erick Faria! 👋
 
 ## About Me
-- 🔭 I'm currently working on: [LidarToolkit](https://github.com/erickfaria/LidarToolkit)
+- 🔭 I'm currently working on: [LidarToolkit](https://github.com/erickfaria/LidarToolkit), [RemoteSensingGEE](https://github.com/erickfaria/remoteSensingGEE)
 - 🌱 I'm learning: AI | LLM
 - 👯 I'm looking to collaborate on: GIS, Python, SQL, Data Science
-- 💬 Ask me about: Python, LiDAR, GIS
+- 💬 Ask me about: Python, LiDAR, GIS, Google Earth Engine
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/erick-faria/)
 
 
@@ -32,6 +32,26 @@
   <a href="https://github.com/erickfaria/LidarToolkit">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erickfaria&repo=LidarToolkit&theme=radical" />
   </a>
+  <a href="https://github.com/erickfaria/remoteSensingGEE">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erickfaria&repo=remoteSensingGEE&theme=radical" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">LidarToolkit</h3>
+        <p align="center">Python tools for LiDAR data processing and analysis, supporting geospatial research and applications.</p>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">RemoteSensingGEE</h3>
+        <p align="center">Exploring Google Earth Engine capabilities through Python for geospatial analysis and environmental monitoring.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## GitHub Stats
